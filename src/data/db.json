@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "",
+      "phone": "",
+      "password": "",
+      "img": "",
+      "flag": "",
+      "info": ""
+    },
+    {
+      "id": 2,
+      "name": "Carlos",
+      "phone": "1234",
+      "password": "12345",
+      "img": "esamisma",
+      "flag": "npi",
+      "info": "soy muy buen programador"
+    }
+  ],
+  "msn": [
+    {
+      "idUser1": "",
+      "idUser2": "",
+      "conversations": [
+        {
+          "senBy": "",
+          "date": "",
+          "hour": "",
+          "message": "",
+          "confirm": ""
+        }
+      ]
+    }
+  ]
+}
